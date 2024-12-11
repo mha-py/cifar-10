@@ -5,7 +5,7 @@
 By training a network with "vision transformer" architecture, we have access to the attention maps the network uses.
 These tell us, on which parts of the image the network's decision relied.<br>
 <img src="images/bird examle2.png" width="200px"/> <img src="images/deer example2.png" width="200px"/><br>
-<img src="images/cat example2.png" width="200px"/> <img src="images/dog example1.png" width="200px"/>
+<img src="images/cat example1.jpg" width="200px"/> <img src="images/dog example1.png" width="200px"/>
 
 
 ### Paper "Emerging properties in Vision Transformers"
