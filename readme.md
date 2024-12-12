@@ -10,7 +10,8 @@ These tell us, on which parts of the image the network's decision relied.<br>
 
 ### Paper "Emerging properties in Vision Transformers"
 A "vision transformer" was trained with only labeled 10k images to simulate a shortage of labeled data.
-By self-supervised learning on a bigger, but unlabeled data set, the networks capabilities can be improved significantly.
+By self-supervised learning on a bigger, but unlabeled data set, the networks capabilities can be improved
+significantly.
 
 <!---
 |               |  Supervised |  Dino v1  |  Dino v2 |
@@ -26,4 +27,6 @@ By self-supervised learning on a bigger, but unlabeled data set, the networks ca
 
 As observed in the paper "Emerging properties in Vision Transformers", segmentation like attention masks appear
 while training it unsupervised, i. e. it only gets images but *no labels, no segmentation masks* as input.
-<img src="images/emerging_properties_car.png" width="500px"/>
+<img src="images/emerging_properties_car.png" width="500px"/><br><br>
+
+<img src="images/dino_algorithm.png" width="200px">
