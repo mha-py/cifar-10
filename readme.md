@@ -29,4 +29,4 @@ As observed in the paper "Emerging properties in Vision Transformers", segmentat
 while training it unsupervised, i. e. it only gets images but *no labels, no segmentation masks* as input.
 <img src="images/emerging_properties_car.png" width="500px"/><br><br>
 
-<img src="images/dino_algorithm.png" width="200px">
+<img src="images/dino_algorithm.png" width="500px">
